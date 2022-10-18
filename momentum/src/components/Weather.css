@@ -1,0 +1,11 @@
+.weather{
+    text-align:right;
+    padding:1vw;
+    background-color:rgba(255,255,255,0.3);
+    display:flex;
+    justify-content:space-between;
+}
+.weatherTitle, .weatherText{
+    color:rgba(0,0,0,0.5);
+    font-size:1.3em;
+}
