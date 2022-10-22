@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/momentum/static/css/main.ab129e6b.css",
-    "main.js": "/momentum/static/js/main.b7efb26e.js",
-    "static/js/787.a88eb028.chunk.js": "/momentum/static/js/787.a88eb028.chunk.js",
-    "static/media/3.jpg": "/momentum/static/media/3.3bab74d4d50e38746a15.jpg",
-    "static/media/1.jpg": "/momentum/static/media/1.fd4df6c20aeebe1f12fe.jpg",
-    "static/media/7.jpg": "/momentum/static/media/7.c69255bedcb2d76274be.jpg",
-    "static/media/8.jpg": "/momentum/static/media/8.d70e91764912f7724e50.jpg",
-    "static/media/5.jpg": "/momentum/static/media/5.553710caa6d4d7c17c2f.jpg",
-    "static/media/2.jpg": "/momentum/static/media/2.98d2f9994bdd893ab98e.jpg",
-    "static/media/6.jpg": "/momentum/static/media/6.53876824887f2037858a.jpg",
-    "static/media/4.jpg": "/momentum/static/media/4.e9f9c9743384379d6528.jpg",
-    "index.html": "/momentum/index.html",
-    "main.ab129e6b.css.map": "/momentum/static/css/main.ab129e6b.css.map",
-    "main.b7efb26e.js.map": "/momentum/static/js/main.b7efb26e.js.map",
-    "787.a88eb028.chunk.js.map": "/momentum/static/js/787.a88eb028.chunk.js.map"
+    "main.css": "/MOMENTUM/static/css/main.ab129e6b.css",
+    "main.js": "/MOMENTUM/static/js/main.982cf739.js",
+    "static/js/787.a88eb028.chunk.js": "/MOMENTUM/static/js/787.a88eb028.chunk.js",
+    "static/media/3.jpg": "/MOMENTUM/static/media/3.3bab74d4d50e38746a15.jpg",
+    "static/media/1.jpg": "/MOMENTUM/static/media/1.fd4df6c20aeebe1f12fe.jpg",
+    "static/media/7.jpg": "/MOMENTUM/static/media/7.c69255bedcb2d76274be.jpg",
+    "static/media/8.jpg": "/MOMENTUM/static/media/8.d70e91764912f7724e50.jpg",
+    "static/media/5.jpg": "/MOMENTUM/static/media/5.553710caa6d4d7c17c2f.jpg",
+    "static/media/2.jpg": "/MOMENTUM/static/media/2.98d2f9994bdd893ab98e.jpg",
+    "static/media/6.jpg": "/MOMENTUM/static/media/6.53876824887f2037858a.jpg",
+    "static/media/4.jpg": "/MOMENTUM/static/media/4.e9f9c9743384379d6528.jpg",
+    "index.html": "/MOMENTUM/index.html",
+    "main.ab129e6b.css.map": "/MOMENTUM/static/css/main.ab129e6b.css.map",
+    "main.982cf739.js.map": "/MOMENTUM/static/js/main.982cf739.js.map",
+    "787.a88eb028.chunk.js.map": "/MOMENTUM/static/js/787.a88eb028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab129e6b.css",
-    "static/js/main.b7efb26e.js"
+    "static/js/main.982cf739.js"
   ]
 }
